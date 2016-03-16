@@ -1,6 +1,6 @@
 ### Blockchain and Identity
 
-Projects/Companies Working on Blockchain and Identity
+Projects/companies working on blockchain and identity
 
  * [Namecoin](http://namecoin.org/) is a blockchain that has been conceived from the start to be used for registering names. It has recently received some criticism for reliability.
  * [NameID](https://nameid.org/) is an OpenID service based on Namecoin identifiers.
