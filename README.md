@@ -17,7 +17,7 @@ Projects/companies working on blockchain and identity (pull requests welcome):
  * [Bitnation](https://bitnation.co/) seeks to establish the concept of “world citizenship” through identity registration on the blockchain. The project is collaborating with the Estonian e-Residency program and also has a focus on offering identity services to refugees.
  * Linux foundation [hyper ledger](https://www.hyperledger.org/) project looking to develop a cross-industry open standard with many big companies participating.
  * [Shocard](https://shocard.com/) is an early stage company developing an “identity platform” built on blockchain.
- * A [research team](http://mm.aueb.gr/) around at Athens University of Economics and Business is working on “information-centric” networking and is exploring the use of blockchain technology for “content names”. 
+ * A [research team](http://mm.aueb.gr/) at Athens University of Economics and Business is working on “information-centric” networking and is exploring the use of blockchain technology for “content names”. 
  * The U.S. Department of Homeland Security is [funding](https://blog.aniljohn.com/2015/12/federal-gov-funds-for-identity-r-and-d.html) research on the "Applicability of Blockchain Technology to Privacy Respecting Identity Management"
  * [Jolocom](http://jolocom.com/) is developing applications for everyone to own their personal digital identity, using linked data and blockchain technologies.
  * [Danube Tech](http://danubetech.com/) is collaborating with several other efforts to build blockchain-based identifier registration infrastructure.
