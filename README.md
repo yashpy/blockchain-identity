@@ -20,6 +20,7 @@ Projects/companies working on blockchain and identity (pull requests welcome):
  * [Shocard](https://shocard.com/) is an early stage company developing an “identity platform” built on blockchain.
  * A [research team](http://mm.aueb.gr/) at Athens University of Economics and Business is working on “information-centric” networking and is exploring the use of blockchain technology for “content names”. 
  * The U.S. Department of Homeland Security is [funding](https://blog.aniljohn.com/2015/12/federal-gov-funds-for-identity-r-and-d.html) research on the "Applicability of Blockchain Technology to Privacy Respecting Identity Management"
+ * A [paper](http://web.media.mit.edu/~guyzys/data/ZNP15.pdf) about "Using Blockchain to Protect Personal Data"
  * [Jolocom](http://jolocom.com/) is developing applications for everyone to own their personal digital identity, using linked data and blockchain technologies.
  * [Danube Tech](http://danubetech.com/) is collaborating with several other efforts to build blockchain-based identifier registration infrastructure.
  
