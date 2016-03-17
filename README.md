@@ -14,8 +14,9 @@ Projects/companies working on blockchain and identity (pull requests welcome):
  * [ENS](https://github.com/nexusdev/ENS) is the “Ethereal Namespace”, a contract system and set of conventions to form a hierarchical namespace.
  * [Evernym](http://www.evernym.com/) claims to be the first self-sovereign identity platform on a permissioned distributed ledger dedicated solely to identity, and it is fully open source (FOSS).
  * At Ethereum’s DEVCON ONE conference, a [talk](https://www.youtube.com/watch?v=QpaTOvAhLR4) on blockchain, digital identity, and public key infrastructure was given.
- * [Bitnation](https://bitnation.co/) seeks to establish the concept of “world citizenship” through identity registration on the blockchain. The project is collaborating with the Estonian e-Residency program and also has a focus on offering identity services to refugees.
+ * [Bitnation](https://bitnation.co/) seeks to establish the concept of “world citizenship” through identity registration on the blockchain. The project is collaborating with the Estonian e-Residency program and also has a focus on offering ["blockchain emergency IDs"](https://refugees.bitnation.co/) to refugees.
  * Linux foundation [hyper ledger](https://www.hyperledger.org/) project looking to develop a cross-industry open standard with many big companies participating.
+ * [ID2020](http://id2020.org/) seeks to provide every child born after 2020 with a self sovereign digital identity, which helps reduce risks of trafficking and drive digital inclusion.
  * [Shocard](https://shocard.com/) is an early stage company developing an “identity platform” built on blockchain.
  * A [research team](http://mm.aueb.gr/) at Athens University of Economics and Business is working on “information-centric” networking and is exploring the use of blockchain technology for “content names”. 
  * The U.S. Department of Homeland Security is [funding](https://blog.aniljohn.com/2015/12/federal-gov-funds-for-identity-r-and-d.html) research on the "Applicability of Blockchain Technology to Privacy Respecting Identity Management"
