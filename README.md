@@ -2,7 +2,7 @@
 
 Projects/companies working on blockchain and identity (pull requests welcome):
 
- * [Namecoin](http://namecoin.org/) is a blockchain that has been conceived from the start to be used for registering names. It has recently received some criticism for reliability.
+ * [Namecoin](http://namecoin.org/) is a blockchain that has been conceived from the start to be used for registering domain names. It is the first fork of the Bitcoin software.
  * [NameID](https://nameid.org/) is an OpenID service based on Namecoin identifiers.
  * [Onename](https://onename.com/) is a company developing [Blockstack](https://github.com/blockstack), a set of tools for registering names using a combination of the Bitcoin blockchain and a distributed hash table (DHT). Blockstack supports well-known domain name operations such as registration, renewal, and transfer.
  * A workshop called [“Rebooting the Web-of-Trust”](http://weboftrust.info/) has produced a paper about a [Decentralized Public Key Infrastructure](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/raw/master/final-documents/dpki.pdf) (DPKI), which registers identifiers and associated public keys on blockchains.
