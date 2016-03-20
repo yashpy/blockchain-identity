@@ -20,4 +20,5 @@ Projects/companies working on blockchain and identity (pull requests welcome):
  * The U.S. Department of Homeland Security is [funding](https://blog.aniljohn.com/2015/12/federal-gov-funds-for-identity-r-and-d.html) research on the "Applicability of Blockchain Technology to Privacy Respecting Identity Management"
  * [Jolocom](http://jolocom.com/) is developing applications for everyone to own their personal digital identity, using linked data and blockchain technologies.
  * [Danube Tech](http://danubetech.com/) is collaborating with several other efforts to build blockchain-based identifier registration infrastructure.
+ * [Scuttlebot](https://scuttlebot.io/) is a "blockchain identity" protocol avoiding a [singleton-based approach](https://scuttlebot.io/more/articles/design-challenge-avoid-centralization-and-singletons.html). It embraces subjectivity over consensus, e.g. each identity can publish messages that map their favorite pet name mappings for themselves and others. [Patchwork](https://ssbc.github.io/patchwork/) is a user-facing decentralized messaging and sharing app based on Scuttlebot.
  
