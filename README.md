@@ -30,3 +30,4 @@ Projects/companies working on blockchain and identity (pull requests welcome):
  * [Proof-of-Individuality](http://proofofindividuality.online/) addresses the challenge to prove that a person only has one account within a system, without sacrificing the advantages of anonymity/pseudonymity. See [here](https://medium.com/@unlisted/anti-sybil-protocol-using-virtual-pseudonym-parties-10276fcf3b20) for a draft implementation using "virtual pseudonym parties".
  * [Regis](http://regis.nu/) is a platform that makes it easy to build, deploy, and manage decentralized registries on the Ethereum blockchain.
  * [SingleID](http://singleid.com/) An app that allows you to be in control of their online identity. It provides safe logins with no registration and no password.
+ * [IDKeys](https://idkeys.net/) is a distributed global identity system that registers cryptographic public keys on the Stellar blockchain.
