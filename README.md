@@ -13,6 +13,7 @@ Projects/companies working on blockchain and identity (pull requests welcome):
  * [BitAlias](https://bitalias.github.io/) allows users to register names in the Bitcoin blockchain and point them to their wallets.
  * [EtherID](http://etherid.org/) allows registration of domain names for an Ethereum account.
  * [ENS](https://github.com/nexusdev/ENS) is the “Ethereal Namespace”, a contract system and set of conventions to form a hierarchical namespace.
+ * [Ethereum Name Service](https://github.com/ethereum/EIPs/issues/137) is a proposed protocol that provides flexible resolution of short, human-readable names to service and resource identifiers.
  * [Evernym](http://www.evernym.com/) is developing the first "self-sovereign identity platform" on a permissioned distributed ledger called "Sovrin", which is dedicated solely to identity, and it is fully open source (FOSS). A [podcast](http://bigfintechmedia.com/Podcast/blockchain-and-the-universal-identity) is available that explains the concept of "universal identity".
  * At Ethereum’s DEVCON ONE conference, a [talk](https://www.youtube.com/watch?v=QpaTOvAhLR4) on blockchain, digital identity, and public key infrastructure was given.
  * [Bitnation](https://bitnation.co/) seeks to establish the concept of “world citizenship” through identity registration on the blockchain. The project is collaborating with the Estonian e-Residency program and also has a focus on offering ["blockchain emergency IDs"](https://refugees.bitnation.co/) to refugees.
