@@ -4,7 +4,9 @@ Projects/companies working on blockchain and identity (pull requests welcome):
 
  * [Namecoin](http://namecoin.org/) is a blockchain that has been conceived from the start to be used for registering domain names. It is the first fork of the Bitcoin software.
  * [NameID](https://nameid.org/) is an OpenID service based on Namecoin identifiers.
- * [CertCoin](https://courses.csail.mit.edu/6.857/2014/files/19-fromknecht-velicann-yakoubov-certcoin.pdf) is a NameCoin Based Decentralized Authentication System which maintains a public ledger of domains and their associated public keys.
+ * [CertCoin](https://courses.csail.mit.edu/6.857/2014/files/19-fromknecht-velicann-yakoubov-certcoin.pdf) is an MIT paper NameCoin Based Decentralized Authentication System which maintains a public ledger of domains and their associated public keys.
+ * [ChainAnchor](http://connection.mit.edu/wp-content/uploads/sites/29/2014/12/Anonymous-Identities-for-Permissioned-Blockchains2.pdf) is an architecture that adds an identity and privacy-preserving layer above the blockchain, either the private
+blockchain or the public Blockchain in Bitcoin.
  * [Onename](https://onename.com/) is a company developing [Blockstack](https://github.com/blockstack), a set of tools for registering names using a combination of the Bitcoin blockchain and a distributed hash table (DHT). Blockstack supports well-known domain name operations such as registration, renewal, and transfer.
  * A workshop called [“Rebooting the Web-of-Trust”](http://weboftrust.info/) has produced a paper about a [Decentralized Public Key Infrastructure](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/raw/master/final-documents/dpki.pdf) (DPKI), which registers identifiers and associated public keys on blockchains.
  * The non-profit organization XDI.org has designed a blockchain-based [registry](https://docs.google.com/document/d/1i-XChGFsuAi-Id85FWXjX6hOWDn9Sq-qe7ARykJgsBI/) for human-readable names and machine-readable numbers.
@@ -22,7 +24,7 @@ Projects/companies working on blockchain and identity (pull requests welcome):
  * [Shocard](https://shocard.com/) is an early stage company developing an “identity platform” built on blockchain.
  * A [research team](http://mm.aueb.gr/) at Athens University of Economics and Business is working on “information-centric” networking and is exploring the use of blockchain technology for “content names”. 
  * The U.S. Department of Homeland Security is [funding](https://blog.aniljohn.com/2015/12/federal-gov-funds-for-identity-r-and-d.html) research on the "Applicability of Blockchain Technology to Privacy Respecting Identity Management"
- * A MIT [paper](http://web.media.mit.edu/~guyzys/data/ZNP15.pdf) about "Decentralizing Privacy: Using Blockchain to Protect Personal Data".
+ * An MIT [paper](http://web.media.mit.edu/~guyzys/data/ZNP15.pdf) about "Decentralizing Privacy: Using Blockchain to Protect Personal Data".
  * An Ethereum [blog post](https://blog.ethereum.org/2016/01/15/privacy-on-the-blockchain/) about "Privacy on the Blockchain", including some thoughts about identity systems.
  * [Jolocom](http://jolocom.com/) is developing applications for everyone to own their personal digital identity, using linked data and blockchain technologies.
  * [Danube Tech](http://danubetech.com/) is collaborating with several other efforts to build blockchain-based identifier registration infrastructure.
