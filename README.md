@@ -33,3 +33,4 @@ Projects/companies working on blockchain and identity (pull requests welcome):
  * [Regis](http://regis.nu/) is a platform that makes it easy to build, deploy, and manage decentralized registries on the Ethereum blockchain.
  * [SingleID](http://singleid.com/) An app that allows you to be in control of their online identity. It provides safe logins with no registration and no password.
  * [IDKeys](https://idkeys.net/) is a distributed global identity system that registers cryptographic public keys on the Stellar blockchain.
+ * [CheapID](http://guptaoption.com/cheapid/) is a digital identity standard designed for use in conflicted environment like those many refugees or disaster victims may find themselves in.
