@@ -35,3 +35,4 @@ Projects/companies working on blockchain and identity (pull requests welcome):
  * [IDKeys](https://idkeys.net/) is a distributed global identity system that registers cryptographic public keys on the Stellar blockchain.
  * [CheapID](http://guptaoption.com/cheapid/) is a digital identity standard designed for use in conflicted environment like those many refugees or disaster victims may find themselves in.
  * [DIDs](https://docs.google.com/document/d/1Z-9jX4PEWtyRFD5fEyyzEnWK_0ir0no1JJLuRu8O9Gs/) (Decentralized Identifiers) are a new type of identifier intended for digital identity that is "self-sovereign", i.e, fully under the control of the identity owner. DIDs resolve to DDOs (DID descriptor objects) and can be registered in different blockchains (using different "methods").
+ * A [research project](https://github.com/jolocom/WebID-Ethereum-Integration) on registering WebIDs on the Ethereum blockchain, to be used for Linked Data and Solid.
