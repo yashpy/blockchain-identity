@@ -37,4 +37,4 @@ Projects/companies working on blockchain and identity (pull requests welcome):
  * [DIDs](https://docs.google.com/document/d/1Z-9jX4PEWtyRFD5fEyyzEnWK_0ir0no1JJLuRu8O9Gs/) (Decentralized Identifiers) are a new type of identifier intended for digital identity that is "self-sovereign", i.e, fully under the control of the identity owner. DIDs resolve to DDOs (DID descriptor objects) and can be registered in different blockchains (using different "methods").
  * A [research project](https://github.com/jolocom/WebID-Ethereum-Integration) on registering WebIDs on the Ethereum blockchain, to be used for Linked Data and Solid.
  * An [article](http://www.gsma.com/personaldata/the-relationship-between-blockchain-and-digital-identity) by the GSMA about the relationship between blockchain and identity.
- 
+ * A snapshot of the [identity landscape](https://oneworldidentity.com/2017/01/31/one-world-identity-defragments-disparate-identity-industry-landscape/) by oneworldidentity.com.
