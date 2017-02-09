@@ -38,3 +38,4 @@ Projects/companies working on blockchain and identity (pull requests welcome):
  * A [research project](https://github.com/jolocom/WebID-Ethereum-Integration) on registering WebIDs on the Ethereum blockchain, to be used for Linked Data and Solid.
  * An [article](http://www.gsma.com/personaldata/the-relationship-between-blockchain-and-digital-identity) by the GSMA about the relationship between blockchain and identity.
  * A snapshot of the [identity landscape](https://oneworldidentity.com/2017/01/31/one-world-identity-defragments-disparate-identity-industry-landscape/) by oneworldidentity.com.
+ * [Authenteq](http://authenteq.com/) is an automatic identity verification platform that uses a facial recognition algorithm to create a digital identity on a blockchain.
