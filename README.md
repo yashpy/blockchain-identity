@@ -39,5 +39,5 @@ Projects/companies working on blockchain and identity (pull requests welcome):
  * An [article](http://www.gsma.com/personaldata/the-relationship-between-blockchain-and-digital-identity) by the GSMA about the relationship between blockchain and identity.
  * A snapshot of the [identity landscape](https://oneworldidentity.com/2017/01/31/one-world-identity-defragments-disparate-identity-industry-landscape/) by oneworldidentity.com.
  * [Authenteq](http://authenteq.com/) is an automatic identity verification platform that uses a facial recognition algorithm to create a digital identity on a blockchain.
- * [The Humanized Internet](http://www.thehumanizedinternet.org/) is building a prototype of an identity-as-a-service platform, relying on the blockchain system, to store legal IDs, property titles, education certificates, and medical records. 
+ * [The Humanized Internet](http://www.thehumanizedinternet.org/) is building a prototype of an identity-as-a-service platform, relying on a blockchain system, to store legal IDs, property titles, education certificates, and medical records. 
  
