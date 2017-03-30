@@ -40,4 +40,4 @@ Projects/companies working on blockchain and identity (pull requests welcome):
  * A snapshot of the [identity landscape](https://oneworldidentity.com/2017/01/31/one-world-identity-defragments-disparate-identity-industry-landscape/) by oneworldidentity.com.
  * [Authenteq](http://authenteq.com/) is an automatic identity verification platform that uses a facial recognition algorithm to create a digital identity on a blockchain.
  * [The Humanized Internet](http://www.thehumanizedinternet.org/) is building a prototype of an identity-as-a-service platform, relying on a blockchain system, to store legal IDs, property titles, education certificates, and medical records. 
- 
+ * [Deloitte SmartID](http://www.deloitte.co.uk/smartid/) uses Ethereum smart contracts to store, endorse, share, and revoke attributes, in order to enable users to automate digital processes such as customer registration and commercial KYC checks.
