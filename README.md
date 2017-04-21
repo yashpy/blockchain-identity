@@ -43,3 +43,4 @@ Projects/companies working on blockchain and identity (pull requests welcome):
  * [Deloitte SmartID](http://www.deloitte.co.uk/smartid/) uses Ethereum smart contracts to store, endorse, share, and revoke attributes, in order to enable users to automate digital processes such as customer registration and commercial KYC checks.
  * [Master thesis](http://essay.utwente.nl/71274/) about self-sovereign identity using blockchain technology by D.S. Baars.
  * The [Fermat project](http://www.fermat.org/) is a community working on the [Internet of People](http://iopgo.com/), an open, decentralized infrastructure consisting of device-to-device communication, blockchain tokens, profile servers, and other components.
+ * [Civic](https://www.civic.com/) is a secure identity platform using a blockchain and biometrics on mobile devices, in order to provide multi-factor authentication without a username, password, third party authenticator, or physical hardware token.
