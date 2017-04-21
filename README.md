@@ -42,4 +42,4 @@ Projects/companies working on blockchain and identity (pull requests welcome):
  * [The Humanized Internet](http://www.thehumanizedinternet.org/) is building a prototype of an identity-as-a-service platform, relying on a blockchain system, to store legal IDs, property titles, education certificates, and medical records. 
  * [Deloitte SmartID](http://www.deloitte.co.uk/smartid/) uses Ethereum smart contracts to store, endorse, share, and revoke attributes, in order to enable users to automate digital processes such as customer registration and commercial KYC checks.
  * [Master thesis](http://essay.utwente.nl/71274/) about self-sovereign identity using blockchain technology by D.S. Baars.
- 
+ * The [Fermat project](http://www.fermat.org/) is a community working on the [Internet of People](http://iopgo.com/), an open, decentralized infrastructure consisting of device-to-device communication, blockchain tokens, profile servers, and other components.
