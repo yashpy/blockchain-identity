@@ -4,6 +4,7 @@ Projects/companies working on blockchain and identity (pull requests welcome):
 
  * [Namecoin](http://namecoin.org/) is a blockchain that has been conceived from the start to be used for registering domain names. It is the first fork of the Bitcoin software.
  * [NameID](https://nameid.org/) is an OpenID service based on Namecoin identifiers.
+ * [Bloom](https://hellobloom.io) is a blockchain project for credit scoring and identity management, team is Stanford graduates, Thiel fellows and recently with advisement from at least one former employee of a major credit scoring bureau. 
  * [CertCoin](https://courses.csail.mit.edu/6.857/2014/files/19-fromknecht-velicann-yakoubov-certcoin.pdf) is an MIT paper about a NameCoin-based decentralized authentication system which maintains a public ledger of domains and their associated public keys.
  * [ChainAnchor](http://connection.mit.edu/wp-content/uploads/sites/29/2014/12/Anonymous-Identities-for-Permissioned-Blockchains2.pdf) is MIT paper about an architecture that adds an identity and privacy-preserving layer above the blockchain, either the private blockchain or the public blockchain in Bitcoin.
  * [Blockstack](https://github.com/blockstack) is a network of computers that collectively maintain a global registry of domain names, public keys, and cryptographic hashes. With this registry, Blockstack serves as a decentralized domain name system (DNS) and a decentralized public key infrastructure (PKI). [Onename](https://onename.com/) is a product built on Blockstack that allows people to register identities.
