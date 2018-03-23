@@ -11,7 +11,6 @@ Projects/companies working on blockchain and identity (pull requests welcome):
  * The non-profit organization XDI.org has designed a blockchain-based [registry](https://docs.google.com/document/d/1i-XChGFsuAi-Id85FWXjX6hOWDn9Sq-qe7ARykJgsBI/) for human-readable names and machine-readable numbers.
  * [Consensys](https://consensys.net/) has developed the blockchain-based, self-sovereign identity system [uPort](https://www.uport.me/) to launch an [“Internet-of-People”](http://www.ibtimes.co.uk/ethereum-studio-consensys-launches-internet-people-digital-ids-assets-secured-unbuntu-phones-1542620).
  * [Identit.ee](http://www.identit.ee/) is a program to build blockchain identity solutions related to the Estonian e-Residency concept.
- * [UBIC](https://github.com/UBIC-repo/core) is a blockchain-based cryptocurrency that distributes a Universal Basic Income to participants after they scan the NFC chip of their E-Passport.
  * [BitAlias](https://bitalias.github.io/) allows users to register names in the Bitcoin blockchain and point them to their wallets.
  * [EtherID](http://etherid.org/) allows registration of domain names for an Ethereum account.
  * [ENS](https://github.com/nexusdev/ENS) is the “Ethereal Namespace”, a contract system and set of conventions to form a hierarchical namespace.
@@ -93,3 +92,4 @@ Projects/companies working on blockchain and identity (pull requests welcome):
  * [Keyp](https://keyp.io/) does not use blockchain, but still offers a self-sovereign digital identity infrastructure. A resource asks the user for specific attributes, which are stored in a wallet on a secure device. The wallet redirects the request to a specific "authenticator" that can validate the attribute.
  * The [I/O Digital Foundation](https://iodigital.io/) offers a Proof-of-Stake blockchain called Decentralised Input Output Name Server (DIONS). It will enable applications such as identity and alias registration, storage of legal documents, key exchange, and encrypted messaging.
  * [Dominode](https://dominode.com/) is building a self-sovereign identity solution based on IPFS and public blockchains that focuses on identity for professionals in regulated industries. Identity data can be verified to be true and is fully portable.
+ * [UBIC](https://github.com/UBIC-repo/core) is a blockchain-based cryptocurrency that distributes a Universal Basic Income to participants after they scan the NFC chip of their E-Passport.
