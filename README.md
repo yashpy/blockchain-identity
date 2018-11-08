@@ -1,3 +1,5 @@
+\\ For entry into the Crypto Library's database
+
 ### Blockchain and Identity
 
 Projects/companies working on blockchain and identity (pull requests welcome):
