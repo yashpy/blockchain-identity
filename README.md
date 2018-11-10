@@ -1,4 +1,4 @@
-\\ For entry into the Crypto Library's database
+\\ For entry into the Crypto Library's database\n
 https://github.com/infominer33/Crypto-library/blob/master/toml/application/blockchain-id.toml
 
 ### Blockchain and Identity
