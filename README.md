@@ -1,7 +1,7 @@
 \\ For entry into the Crypto Library's database<br/>
 https://github.com/infominer33/Crypto-library/blob/master/toml/application/blockchain-id.toml
 
-\\ will update links, leave notes, and add new items from issues; then send back to the original when I'm done processing in the toml file.
+\\ will update links, leave notes, and add new items from issues; then send back to the original when I'm done processing the toml file. halfway finished with updating bad links.
 
 ### Blockchain and Identity
 
