@@ -1,7 +1,8 @@
 \\ For entry into the Crypto Library's database<br/>
 https://github.com/infominer33/Crypto-library/blob/master/toml/application/blockchain-id.toml
 
-\\ additionally, I'm updating depreciated links, adding a resource or two for existing projects. then submit a pull-request to peacekeeper/blockchain-identity. halfway finished.
+\\ additionally, I'm updating depreciated links, adding a whitepaper\github link or two for existing projects. 
+will submit a pull-request to peacekeeper/blockchain-identity.
 
 ### Blockchain and Identity
 
