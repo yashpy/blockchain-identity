@@ -10,7 +10,7 @@ Projects/companies working on blockchain and identity (pull requests welcome):
  * A workshop called [“Rebooting the Web-of-Trust”](http://weboftrust.info/) has produced a paper about a [Decentralized Public Key Infrastructure](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/dpki.pdf) (DPKI), which registers identifiers and associated public keys on blockchains.
  * The non-profit organization XDI.org has designed a blockchain-based [registry](https://docs.google.com/document/d/1i-XChGFsuAi-Id85FWXjX6hOWDn9Sq-qe7ARykJgsBI/) for human-readable names and machine-readable numbers.
  * [Consensys](https://consensys.net/) has developed the blockchain-based, self-sovereign identity system [uPort](https://www.uport.me/) to launch an [“Internet-of-People”](http://www.ibtimes.co.uk/ethereum-studio-consensys-launches-internet-people-digital-ids-assets-secured-unbuntu-phones-1542620).
- * [Identit.ee](http://www.identit.ee/) is a program to build blockchain identity solutions related to the Estonian e-Residency concept. **depreciated**
+ * [ID.ee](https://www.id.ee/) is a program to build blockchain identity solutions related to the Estonian e-Residency concept.[*](https://www.mccarthy.ca/en/insights/blogs/cyberlex/estonian-blockchain-based-id-card-security-flaw-raises-issues-about-identity")
  * [BitAlias](https://bitalias.github.io/) allows users to register names in the Bitcoin blockchain and point them to their wallets.
  * [EtherID](http://etherid.org/) allows registration of domain names for an Ethereum account.
  * [ENS](https://github.com/nexusdev/ENS) is the “Ethereal Namespace”, a contract system and set of conventions to form a hierarchical namespace.
