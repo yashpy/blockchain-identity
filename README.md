@@ -1,5 +1,9 @@
 ### Blockchain and Identity
 
+Note: Also check out this amazing list of resources:
+
+ * [https://github.com/infominer33/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id) - Decentralized, Self-Sovereign, and Blockchain Identity resources
+
 Projects/companies working on blockchain and identity (pull requests welcome):
 
  * [Namecoin](http://namecoin.org/) is a blockchain that has been conceived from the start to be used for registering domain names. It is the first fork of the Bitcoin software.
@@ -133,5 +137,3 @@ Projects/companies working on blockchain and identity (pull requests welcome):
 A program for self-sovereign identity systems, empowering community stewardship over centralized ownership. Universal Love Agreements provide couples around the world with a way to register and verify their union *on their terms* without the need for third party interference to complicate agreements or prevent individuals from their engagement. UNIVERSAL HOUSING NETWORK Register tangible property or virtual land and objects on the blockchain at zero-cost. In addition to recording permanent ownership, users can list temporary habitats on the network as freespace for various cultures and citizens to play in and create community.
 * [iov42.com](iov42.com) - iov42 is a technology provider [accelerating financial and non-financial](http://bbfund.com/wp-content/uploads/2017/10/BBFund_geninfo_oct2017.pdf) transactions based on cutting-edge artificial intelligence and Blockchain technology. iov42 is the solution for banks and other participants to reduce transactional & compliance costs, increase profit & liquidity, and offer revolutionary new products, as well as for FinTechs around the globe to generate new revenue streams. 
 * [SIGND.ID](signd.id): THE FAST TRACK TO YOUR CUSTOMERS Smart contracts and identity sharing by SignD make onboarding, contracts, KYC, ad hoc insurances as simple as saying „Hello“!
-* [/infominer33/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id) - Decentralized, Self-Sovereign, and Blockchain Identity resources
-
