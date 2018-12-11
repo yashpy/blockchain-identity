@@ -2,7 +2,7 @@
 
 Note: Also check out this amazing list of resources:
 
- * [https://github.com/infominer33/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id) - Decentralized, Self-Sovereign, and Blockchain Identity resources
+[https://github.com/infominer33/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id) - Decentralized, Self-Sovereign, and Blockchain Identity resources
 
 Projects/companies working on blockchain and identity (pull requests welcome):
 
