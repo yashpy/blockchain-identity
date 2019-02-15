@@ -1,10 +1,11 @@
 ### Blockchain and Identity
 
-Note: Also check out this amazing list of resources:
+**Note:** Also check out:
 
-[https://github.com/infominer33/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id) - Decentralized, Self-Sovereign, and Blockchain Identity resources
+* [https://github.com/infominer33/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id) - Amazing list of decentralized, self-sovereign, and blockchain identity resources
+* [https://kumu.io/vijarn/markus-sabadello-and-infominer33-on-identity-landscape](https://kumu.io/vijarn/markus-sabadello-and-infominer33-on-identity-landscape) - Visualization of blockchain identity resources
 
-Projects/companies working on blockchain and identity (pull requests welcome):
+**Projects/companies working on blockchain and identity (pull requests welcome)**:
 
  * [Namecoin](http://namecoin.org/) is a blockchain that has been conceived from the start to be used for registering domain names. It is the first fork of the Bitcoin software.
  * [NameID](https://nameid.org/) is an OpenID service based on Namecoin identifiers.
