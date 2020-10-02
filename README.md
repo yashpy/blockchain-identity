@@ -7,6 +7,7 @@
 
 **Projects/companies working on blockchain and identity (pull requests welcome)**:
 
+ * [Ceramic](http://ceramic.network/) is a peer-to-peer verifiable storage graph that anchors updates in a blockchain, providing for scalable publishing, linking and querying of identity information and links that can be used on any network. It supports the [IDX](http://idx.xyz/) identity index standard and [3Box](http://3box.io/) distributed data framework 
  * [Namecoin](http://namecoin.org/) is a blockchain that has been conceived from the start to be used for registering domain names. It is the first fork of the Bitcoin software.
  * [NameID](https://nameid.org/) is an OpenID service based on Namecoin identifiers.
  * [CertCoin](https://courses.csail.mit.edu/6.857/2014/files/19-fromknecht-velicann-yakoubov-certcoin.pdf) is an MIT paper about a NameCoin-based decentralized authentication system which maintains a public ledger of domains and their associated public keys.
