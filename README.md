@@ -7,7 +7,6 @@
 
 **Projects/companies working on blockchain and identity (pull requests welcome)**:
 
- * [Ceramic](http://ceramic.network/) is a peer-to-peer verifiable storage graph that anchors updates in a blockchain, providing for scalable publishing, linking and querying of identity information and links that can be used on any network. It supports the [IDX](http://idx.xyz/) identity index standard and [3Box](http://3box.io/) distributed data framework 
  * [Namecoin](http://namecoin.org/) is a blockchain that has been conceived from the start to be used for registering domain names. It is the first fork of the Bitcoin software.
  * [NameID](https://nameid.org/) is an OpenID service based on Namecoin identifiers.
  * [CertCoin](https://courses.csail.mit.edu/6.857/2014/files/19-fromknecht-velicann-yakoubov-certcoin.pdf) is an MIT paper about a NameCoin-based decentralized authentication system which maintains a public ledger of domains and their associated public keys.
@@ -147,3 +146,4 @@ A program for self-sovereign identity systems, empowering community stewardship 
 * [KILT](https://kilt.io/) is a blockchain and protocol that allows attesters to issue digital claims to users, who can then present them to verifiers. Claims are stored in a user's wallet. Claims are signed, and a checksum is stored on a blockchain.
 * [Diode](https://diode.io/) is developing a blockchain-based decentralized PKI for resource constrainted devices. The system is implemented with a new super-light client protocol for Ethereum called BlockQuick.
 * [SeLF](https://self-ssi.com/) is a next-gen identity & access management software that connects legacy authorization sources like LDAP or Active Directory to Self-Sovereign Identity technology using the Sovrin Network and provides SSO (SAML/OAuth) over SSI as well. SeLF was developed by [esatus AG](https://esatus.com).
+ * [Ceramic](http://ceramic.network/) is a peer-to-peer verifiable storage graph that anchors updates in a blockchain, providing for scalable publishing, linking and querying of identity information and links that can be used on any network. It supports the [IDX](http://idx.xyz/) identity index standard and [3Box](http://3box.io/) distributed data framework 
