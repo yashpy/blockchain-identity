@@ -2,7 +2,8 @@
 
 **Note:** Also check out:
 
-* [https://github.com/infominer33/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id) - Amazing list of decentralized, self-sovereign, and blockchain identity resources
+* [Decentralized-ID.com](https://decentralized-id.com/) - [GitHub](https://github.com/decentralized-id/decentralized-id.github.io) - A website made up of curated lists surrounding decentralized, self-sovereign, and blockchain identity resources.
+* [Identosphere Weekly Identity Highlights](https://identosphere.substack.com/) - Kaliya Identity Woman and Infominer (of Decentralized-ID.com) stay current on happenings in SSI\DID.
 * [https://kumu.io/vijarn/markus-sabadello-and-infominer33-on-identity-landscape](https://kumu.io/vijarn/markus-sabadello-and-infominer33-on-identity-landscape) - Visualization of blockchain identity resources
 
 **Projects/companies working on blockchain and identity (pull requests welcome)**:
