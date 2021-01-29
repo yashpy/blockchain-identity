@@ -7,7 +7,7 @@
 * [https://kumu.io/vijarn/markus-sabadello-and-infominer33-on-identity-landscape](https://kumu.io/vijarn/markus-sabadello-and-infominer33-on-identity-landscape) - Visualization of blockchain identity resources
 
 **Projects/companies working on blockchain and identity (pull requests welcome)**:
-
+ * [IDENA](https://idena.io/) is a Proof-Of-Person blockchain that provides a validation method that is pseudonymous and based on attending regular validation ceremonies in which the user needs to solve a series of "flip-tests". A flip is a sort of AI-hard captcha that helps to determine whether a user is human. The Idena protocol solves the blockchain oracle problem: Its independent mining nodes can act as oracles across various blockchains. Idena accounts are compatible with Ethereum.
  * [Namecoin](http://namecoin.org/) is a blockchain that has been conceived from the start to be used for registering domain names. It is the first fork of the Bitcoin software.
  * [NameID](https://nameid.org/) is an OpenID service based on Namecoin identifiers.
  * [CertCoin](https://courses.csail.mit.edu/6.857/2014/files/19-fromknecht-velicann-yakoubov-certcoin.pdf) is an MIT paper about a NameCoin-based decentralized authentication system which maintains a public ledger of domains and their associated public keys.
